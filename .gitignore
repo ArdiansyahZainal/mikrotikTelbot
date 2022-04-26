@@ -1,0 +1,3 @@
+#Ignore Virtualenv dir
+venv/
+__pycache__/
